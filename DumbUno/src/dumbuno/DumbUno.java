@@ -1,5 +1,5 @@
 //This is an Uno game simulation.
-//Created by James Vanderhyde, 30 September 2024
+//Created by Alexis Ballesteros
 
 package dumbuno;
 
@@ -44,7 +44,7 @@ public class DumbUno
             //Student implementation
         }
         System.out.println("I win!");
-        //pppp
+        
     }
     
     private static void printGame(IntNode startPlayer)
